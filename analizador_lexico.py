@@ -38,4 +38,4 @@ def analizar_codigo(nombre_archivo):
         print(f"❌ Error: El archivo '{nombre_archivo}' no existe.")
 
 if __name__ == "__main__":
-    analizar_codigo("src/programa.txt")
+    analizar_codigo("src/Programa.txt")
